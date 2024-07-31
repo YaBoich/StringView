@@ -1,0 +1,7 @@
+
+# Windows runtime files
+*.exe
+*.ilk
+*.pdb
+
+*.obj
