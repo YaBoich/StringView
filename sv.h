@@ -3,6 +3,7 @@
 
 #include <string.h>
 #include <stdbool.h>
+#include <ctype.h>
 
 typedef struct {
     const char *data;
